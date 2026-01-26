@@ -12,7 +12,7 @@ export default function Hero() {
           </h1>
 
           <p style={styles.subtitle}>
-            Étudiant ingénieur — objectif : stage  technique (4 mois) à partir d’avril 2026.
+            Étudiant à ESIEA, je suis à la recherche d'un stage à partir d’avril 2026.
           </p>
 
           <div style={styles.ctaRow}>
